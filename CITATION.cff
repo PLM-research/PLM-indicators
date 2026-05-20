@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: "PLM Indicator Catalog: 62-Indicator Design Specification for Population Learning Management"
+message: "If you use this catalog, please cite the accompanying paper and include a reference to this repository."
+type: dataset
+version: 1.0.0
+date-released: 2026-03-01
+license: CC-BY-4.0
+authors:
+  - family-names: "Sasano"
+    given-names: "Kento"
+    orcid: "https://orcid.org/0009-0009-3853-8029"
+    affiliation: "Faculty of Environmental, Life, Natural Science and Technology, Okayama University"
+repository-code: "https://github.com/PLM-research/PLM-indicators"
+abstract: >-
+  This catalog contains 62 indicators organized across six domains
+  (Learning Vital Signs, Learning Risk Stratification, Social Determinants
+  of Learning, Intervention Effectiveness, Resource Efficiency, Learning
+  Engagement) and three administrative layers (Macro / Meso / Micro).
+  It serves as the design-phase artifact for Population Learning
+  Management (PLM), a Design Science Research project that transfers
+  Population Health Management (PHM) constructs to K-12 educational
+  decision-making.
+keywords:
+  - population learning management
+  - learning analytics
+  - educational dashboard
+  - design science research
+  - population health management
+  - K-12 education
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Sasano"
+      given-names: "Kento"
+      orcid: "https://orcid.org/0009-0009-3853-8029"
+  title: "Population Learning Management: Transferring Population Health Management to K-12 Educational Dashboard Design"
+  year: 2026
